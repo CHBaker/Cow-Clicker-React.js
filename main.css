@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#cow_pic {
+    width: 600px;
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -moz-box;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+#cow_pic:hover {
+    box-shadow: 5px 5px #D3D3D3;
+}
+
+#counter {
+    text-align: center;
+}
