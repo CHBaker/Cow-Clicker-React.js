@@ -2,7 +2,7 @@ h1 {
     text-align: center;
 }
 
-#cow_pic {
+#container {
     width: 600px;
     display: flex;
     display: -webkit-flex;
@@ -12,7 +12,7 @@ h1 {
     margin: 0 auto;
 }
 
-#cow_pic:hover {
+img:hover {
     box-shadow: 5px 5px #D3D3D3;
 }
 
